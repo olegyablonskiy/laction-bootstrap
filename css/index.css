@@ -1,0 +1,11 @@
+.carousel-item img {
+    height: 390px;
+}
+
+main div.card {
+    width: 18rem;
+}
+
+main.row {
+   margin: 0;
+}
